@@ -1,7 +1,7 @@
 (function() {
     'use strict';
 
-    const BASE_URL = 'https://anphidet.github.io/AnphiUltimate';
+    const BASE_URL = 'https://raw.githubusercontent.com/samiseddaridev-sys/grep/main';
     const WHITELIST_URL = `${BASE_URL}/whitelist.json`;
     const DISCORD_INVITE = 'https://discord.gg/54xUGVpxeb';
     const VERSION = '2.3.0';
@@ -611,3 +611,4 @@
 
     console.log('%c[Grepolis Ultimate]%c Main.js V' + VERSION + ' charge', 'color: #4caf50; font-weight: bold;', 'color: inherit;');
 })();
+
